@@ -1,3 +1,4 @@
+//tidak sempat membuat ke file yg berbeda
 //1
 var nama = "Productzilla";
 
